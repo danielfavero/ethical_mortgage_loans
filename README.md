@@ -2,7 +2,7 @@
 
 These files are relevant for Daniel Favero's Final Course material work 
 
-The TCC report can be found as a word document named: Explainable AI ethics.docx
+The TCC report can be found as a word document named: Ethics on Tech - Explainable AI towards to a more Humane World.docx
 
 The Python Notebooks used for the analysis is split into 3
 
