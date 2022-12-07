@@ -16,7 +16,7 @@ To replicate these results one needs to:
 
 2- Create folders as identified in the read_csv command lines
 
-3- In case one wants to skip the  Data cleaning and model creation steps, download the models from my OneDrive:
+3- In case one wants to skip the  Data cleaning and model creation steps, download the models from my OneDrive, files can be loaded directly into 3_model_analysis:
 https://1drv.ms/u/s!AgWRqOycQCG7hORDsV3-BMntjnWdzA?e=d8W31c
 - Github doesn't allow for >25MB files to be loaded
 
